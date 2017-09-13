@@ -11,14 +11,22 @@
 ## 目录
 
 
+### Java
+
+
 ### JavaScript
 
+* [《ECMAScript6入门》](https://github.com/bighuang624/my-booklist/blob/master/JavaScript/ECMAScript6入门.md)
 * [《JavaScript高级程序设计（第3版）》](https://github.com/bighuang624/my-booklist/blob/master/JavaScript/JavaScript高级程序设计（第3版）.md)
-* [《你不知道的 JavaScript》](https://github.com/bighuang624/my-booklist/blob/master/JavaScript/你不知道的 JavaScript.md)
+* [《你不知道的JavaScript》](https://github.com/bighuang624/my-booklist/blob/master/JavaScript/你不知道的JavaScript.md)
+* [《廖雪峰的JavaScript教程》](https://github.com/bighuang624/my-booklist/blob/master/JavaScript/廖雪峰的JavaScript教程.md)
 
 ### Node
 
-* [《Node.js 包教不包会》](https://github.com/bighuang624/my-booklist/blob/master/Node/Node.js 包教不包会.md)
+* [《Node.js包教不包会》](https://github.com/bighuang624/my-booklist/blob/master/Node/Node.js包教不包会.md)
+
+### Python
+
 
 ### 数据结构与算法
 
