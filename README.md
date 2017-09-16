@@ -13,6 +13,7 @@
 
 ### Java
 
+* [《Java核心技术卷》](https://github.com/bighuang624/my-booklist/blob/master/Java/Java核心技术卷.md)
 
 ### JavaScript
 
@@ -23,10 +24,13 @@
 
 ### Node
 
+* [《Koa2进阶学习笔记》](https://github.com/bighuang624/my-booklist/blob/master/Node/Koa2进阶学习笔记.md)
 * [《Node.js包教不包会》](https://github.com/bighuang624/my-booklist/blob/master/Node/Node.js包教不包会.md)
+* [《深入浅出Node.js》](https://github.com/bighuang624/my-booklist/blob/master/Node/深入浅出Node.js.md)
 
 ### Python
 
+* [《廖雪峰的Python教程》](https://github.com/bighuang624/my-booklist/blob/master/Python/廖雪峰的Python教程.md)
 
 ### 数据结构与算法
 
