@@ -32,16 +32,16 @@
       "content": "随着自己不断学习，我也会一直维护这个 repo。如果你喜欢或者从中有所收获，希望能 star 一下以资鼓励。感激不尽。"
     }, {
       "title": "目录",
-      "level": "2"
+      "level": 2
     }
   ],
   "append": [{
       "title": "维护",
-      "level": "2",
+      "level": 2,
       "content": "本文档由 [yuki](https://github.com/bighuang624/yuki) 维护"
     }, {
       "title": "LICENSE",
-      "level": "2",
+      "level": 2,
       "content": "本项目所有文章采用 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) 许可协议。转载请注明出处！ "
     }
   ]

@@ -11,30 +11,36 @@
 ## 目录
 
 
-### Java
+### 语言无关
 
-* [《Java核心技术卷》](https://github.com/bighuang624/my-booklist/blob/master/Java/Java核心技术卷.md)
 
-### JavaScript
+#### 数据结构与算法
 
-* [《ECMAScript6入门》](https://github.com/bighuang624/my-booklist/blob/master/JavaScript/ECMAScript6入门.md)
-* [《JavaScript高级程序设计（第3版）》](https://github.com/bighuang624/my-booklist/blob/master/JavaScript/JavaScript高级程序设计（第3版）.md)
-* [《你不知道的JavaScript》](https://github.com/bighuang624/my-booklist/blob/master/JavaScript/你不知道的JavaScript.md)
-* [《廖雪峰的JavaScript教程》](https://github.com/bighuang624/my-booklist/blob/master/JavaScript/廖雪峰的JavaScript教程.md)
+* [《算法（第4版）》](https://github.com/bighuang624/my-booklist/blob/master/语言无关/数据结构与算法/算法（第4版）.md)
 
-### Node
+### 语言相关
 
-* [《Koa2进阶学习笔记》](https://github.com/bighuang624/my-booklist/blob/master/Node/Koa2进阶学习笔记.md)
-* [《Node.js包教不包会》](https://github.com/bighuang624/my-booklist/blob/master/Node/Node.js包教不包会.md)
-* [《深入浅出Node.js》](https://github.com/bighuang624/my-booklist/blob/master/Node/深入浅出Node.js.md)
 
-### Python
+#### Java
 
-* [《廖雪峰的Python教程》](https://github.com/bighuang624/my-booklist/blob/master/Python/廖雪峰的Python教程.md)
+* [《Java核心技术卷》](https://github.com/bighuang624/my-booklist/blob/master/语言相关/Java/Java核心技术卷.md)
 
-### 数据结构与算法
+#### JavaScript
 
-* [《算法（第4版）》](https://github.com/bighuang624/my-booklist/blob/master/数据结构与算法/算法（第4版）.md)
+* [《ECMAScript6入门》](https://github.com/bighuang624/my-booklist/blob/master/语言相关/JavaScript/ECMAScript6入门.md)
+* [《JavaScript高级程序设计（第3版）》](https://github.com/bighuang624/my-booklist/blob/master/语言相关/JavaScript/JavaScript高级程序设计（第3版）.md)
+* [《你不知道的JavaScript》](https://github.com/bighuang624/my-booklist/blob/master/语言相关/JavaScript/你不知道的JavaScript.md)
+* [《廖雪峰的JavaScript教程》](https://github.com/bighuang624/my-booklist/blob/master/语言相关/JavaScript/廖雪峰的JavaScript教程.md)
+
+#### Node
+
+* [《Koa2进阶学习笔记》](https://github.com/bighuang624/my-booklist/blob/master/语言相关/Node/Koa2进阶学习笔记.md)
+* [《Node.js包教不包会》](https://github.com/bighuang624/my-booklist/blob/master/语言相关/Node/Node.js包教不包会.md)
+* [《深入浅出Node.js》](https://github.com/bighuang624/my-booklist/blob/master/语言相关/Node/深入浅出Node.js.md)
+
+#### Python
+
+* [《廖雪峰的Python教程》](https://github.com/bighuang624/my-booklist/blob/master/语言相关/Python/廖雪峰的Python教程.md)
 
 ## 维护
 
